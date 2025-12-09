@@ -398,7 +398,7 @@ These techniques remain valuable for scenarios where model size, inference speed
 
 - Indian Pines dataset: AVIRIS sensor, NASA
 - Related papers in `papers/` directory
-- Report: `NN_Report (2).pdf`
+- Report: `Hyperspectral_Image_Classification_Report.pdf`
 
 ---
 
@@ -415,7 +415,6 @@ Course: EE258 - Neural Networks
 
 This project is for educational purposes as part of the EE258 Neural Networks course at San Jose State University.
 
-**Acknowledgments:** NASA AVIRIS for the Indian Pines dataset | San Jose State University Department of Electrical Engineering | Course instructor and teaching assistants
+**Acknowledgments:** NASA AVIRIS for the Indian Pines dataset | San Jose State University Department of Electrical Engineering | Prof. Sirkeci
 
-*Last Updated: 2024*
 
